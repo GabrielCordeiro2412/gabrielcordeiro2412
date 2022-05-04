@@ -1,4 +1,8 @@
 ## Olá, eu sou o Gabriel!
+<p>Tenho um amor imenso pela área de informática desde pequeno. Atualmente estou trabalhando como Tester e aprofundando conhecimentos em desenvolvimento em tecnologias como React Native, React, NodeJs e Python! <br>
+Gosto de aprender coisas novas para desenvolver meus projetos e me tornar um profissional mais completo. Estou sempre em busca de novos desafios e oportunidades para crescer como um profissional e como pessoa!</p>
+
+##
 
 <div>
   <a href="https://github.com/GabrielCordeiro2412">
@@ -10,7 +14,7 @@
   <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gabriel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
+  <img align="center" alt="Gabriel-PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
   <img align="center" alt="Gabriel-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
   
